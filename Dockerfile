@@ -1,3 +1,3 @@
-FROM dtagdevsec/spiderfoot
+FROM dtagdevsec/spiderfoot:latest
 
 EXPOSE 5001
