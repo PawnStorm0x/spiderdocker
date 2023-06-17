@@ -1,3 +1,3 @@
-FROM dtagdevsec/spiderfoot:latest
+FROM grafana/grafana:latest
 
-EXPOSE 5001
+EXPOSE 3000
