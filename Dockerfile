@@ -1,3 +1,3 @@
-FROM grafana/grafana:latest
+FROM josaorg/spiderfoot:latest
 
-EXPOSE 3000
+EXPOSE 5001
