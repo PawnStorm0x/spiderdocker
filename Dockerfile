@@ -1,3 +1,3 @@
-FROM josaorg/spiderfoot:latest
+FROM searxng/searxng:latest
 
-EXPOSE 5001
+EXPOSE 8080
