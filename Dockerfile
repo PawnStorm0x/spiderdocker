@@ -1,3 +1,3 @@
-FROM wazuh/wazuh:latest
+FROM searxng/searxng:latest
 
-EXPOSE 55000
+EXPOSE 8080
