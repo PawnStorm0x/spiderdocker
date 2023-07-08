@@ -1,3 +1,3 @@
-FROM marcositu/iky:latest
+FROM marcositu/iky
 
 EXPOSE 8080
