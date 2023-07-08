@@ -1,3 +1,3 @@
-FROM searxng/searxng:latest
+FROM marcositu/iky:latest
 
 EXPOSE 8080
